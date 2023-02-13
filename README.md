@@ -3,7 +3,7 @@
 </h2>
  
 <div align="center">
-  <img alt="Demo" src="/home.png" />
+  <img alt="Demo" src="/home.PNG" />
 
 </div>
 
