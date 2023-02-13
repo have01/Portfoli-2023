@@ -12,7 +12,7 @@ export const ProjectData = [
   },
   {
     id: 1,
-    title: "Reponsive Portfolio",
+    title: "Ecommerce App",
     about:
       "Home page has a list of all the products that are integrated from the apiUsers can search, checkbox filter the product from the list &  add  the products into the cart delete the products form the card ",
     tags: ["ReactJS", "Javascript", "Firebase", "Portfolio"],
