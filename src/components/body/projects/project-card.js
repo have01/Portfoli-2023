@@ -4,7 +4,7 @@ import WOW from "wowjs";
 import { AnimationOnScroll } from "react-animation-on-scroll";
 function ProjectCard({ project }) {
   return (
-    <AnimationOnScroll animateIn="animate__fadeInRight">
+   
       <div className="project-card ">
         <div className="project-info">
           <label className="project-title">{project.title}</label>
@@ -18,7 +18,7 @@ function ProjectCard({ project }) {
             )}
             {project.github && (
               <a className="project-link" href={project.github}>
-                <div className="link-button wow bo">
+                <div className="link-button ">
                   <i class="devicon-github-original colored"></i>Github
                 </div>
               </a>
@@ -33,7 +33,7 @@ function ProjectCard({ project }) {
         </div>
         <img src={project.image} className="project-photo" />
       </div>
-    </AnimationOnScroll>
+
   );
 }
 
