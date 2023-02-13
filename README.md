@@ -2,7 +2,8 @@
   Portfolio-Website (React.Js) <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="/home.png" />
+ ![developer](https://user-images.githubusercontent.com/53529978/218517576-8fdd11d7-8b87-43c7-8a80-3e8660ff64b5.PNG)
+
 </div>
 
 <br/>
@@ -26,7 +27,7 @@ This project was built using these technologies.
 
 ** Multi-Page Layout**
 
-** Styled with React-Bootstrap and Css with easy to customize colors**
+** Styled with React-Bootstrap and TailwinfCss with easy to customize colors**
 
 ** Fully Responsive**
 
