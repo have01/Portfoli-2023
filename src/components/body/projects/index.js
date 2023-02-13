@@ -8,7 +8,7 @@ function Projects() {
   const data = ProjectData;
   return (
     <AnimationOnScroll animateIn="animate__fadeInRight">
-      <div className="projects wow animate__animated animate__fadeInRight">
+      <div className="projects">
         <Separator />
         <label className="section-title">Projects</label>
         <div>
