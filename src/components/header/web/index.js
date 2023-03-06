@@ -23,11 +23,7 @@ function Web() {
         <i class="fi fi-rr-user option-icon"></i>Contact
         </a>
     </div>
-    <div className="web-option">
-        <a href="https://drive.google.com/file/d/1Gq_aifsuvshagHSYijA5d58YmCdnGCEI/view?usp=sharing">
-      <i class="fi fi-rr-document-signed"></i>Resmue
-        </a>
-    </div>
+
   </div>;
 }
 
